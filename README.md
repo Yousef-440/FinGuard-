@@ -1,6 +1,8 @@
 # FinGuard-
 FinGuard is a secure financial system that allows users to create accounts, log in, transfer money, withdraw, deposit, and check balance, with strong protection using Spring Security and JWT Authentication.
-#######################
+
+
+
 FinGuard: A Secure Financial System Built with Java + Spring Boot
 
 I developed FinGuard, a comprehensive and secure financial system, providing users with key financial operations and robust security features:
